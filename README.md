@@ -3,4 +3,5 @@ An analysis of Kickstarter campaigns begun between 5/17/2009 and 3/15/2017 for t
 
 ## Kickstarter Campaigns for US Theater Projects
 In the United States, there were a Grand Total of 912 Kickstarter campaigns for theater projects in our dataset.  Of these, 525 were successful, 349 failed, 26 were cancelled, and 12 were live at the time the data were recorded.
+---
 ![image](https://github.com/kchavez05/kickstarter-analysis/blob/main/Theater%20Category%20Outcomes.png)
