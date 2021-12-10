@@ -13,11 +13,11 @@ Our data show us that campaigns begun in May were significantly more successful 
 ![image](https://github.com/kchavez05/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-Our data indicate that outcomes for these campaigns based on the fundraising goal were successful to a point, went through a bit of a deadzone, and then became successful again.  The greatest rate of success (76%) was for those campaigns whose goals were less than $1000.  Successful campaigns continue to outweight failed campaigns until they intersect at a range of $15,000-$19,999.  At this point failures are more frequent than successes, with peak failure (80%) at a range of $25,000-$29,999.  However, at the ranges of $35,000-$39,999 and $45,000 to $44,999, campaign successes again became more common (67% successes vs 33% failures).  Very few campaigns with goals above $45,000 were successful.
+Our data indicate that outcomes for these campaigns based on the fundraising goal were successful to a point, went through a bit of a deadzone, and then became successful again.  The greatest rate of success (76%) was for those campaigns whose goals were less than $1000.  Successful campaigns continue to outweigh failed campaigns until they intersect at a range of $15,000-$19,999.  At this point failures are more frequent than successes, with peak failure (80%) at a range of $25,000-$29,999.  However, at the ranges of $35,000-$39,999 and $45,000 to $44,999, campaign successes again became more common (67% successes vs 33% failures).  Very few campaigns with goals above $45,000 were successful.
 ![image](https://github.com/kchavez05/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-None.
+None.  However, if any of our Goal or Pledged data are incorrect it would affect our analysis.  
 
 ## Results
 
