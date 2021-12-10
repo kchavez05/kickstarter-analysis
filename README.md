@@ -24,7 +24,7 @@ None.
 2) It would be unwise to launch a campaign in December.
 
 - What can you conclude about the Outcomes based on Goals?
-The sweet spot for successful campaigns has a cap of about $5000.  At the ranges of Less than $1,000 and $1,000-$4,999 the rates of success are 76% and 73%, respectively.  Beyond $4,999 the rates drop quite close to 50/50 and plummet over a range of $15,000-$19,999.  There is a range of success between $35,000 and $44,999, but the sample size for those campaigns is only 9, so they represent just 0.86% of total campaigns and could be considered outliers.  
+---The sweet spot for successful campaigns has a cap of about $5000.  At the ranges of Less than $1,000 and $1,000-$4,999 the rates of success are 76% and 73%, respectively.  Beyond $4,999 the rates drop quite close to 50/50 and plummet over a range of $15,000-$19,999.  There is a range of success between $35,000 and $44,999, but the sample size for those campaigns is only 9, so they represent just 0.86% of total campaigns and could be considered outliers.  
 
 - What are some limitations of this dataset?
 Over 65% of the data recorded are from campaigns in the United States (912 of 1393), so these results may not be representative of campaign success in other countries.  Campaigns in Great Britain, for example, only represent about 26% of the data, though the Outcomes Based on Launch Date are nearly identical.  Further analysis is recommended for any projects outside the United States.  Additionally, the data are old and may not be relevant, especially considering recent global economic conditions and social restrictions due to the Covid-19 pandemic.
