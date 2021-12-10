@@ -9,7 +9,7 @@ We explore the results from two perspectives.  First, we look at Outcomes Based 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Our data show us that campaigns begun in May were significantly more successful than those launched in other months.  The first quarter of the year was up and down before spiking in May.  Successes then trended downwards through the summer, increase slightly in October, and bottom out in December.  
+Our data show us that campaigns begun in May were significantly more successful than those launched in other months.  The first quarter of the year was up and down before spiking in May.  Successes then trended downwards through the summer, increased slightly in October, and bottomed out in December.  
 ![image](https://github.com/kchavez05/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
